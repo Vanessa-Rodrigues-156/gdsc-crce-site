@@ -4,8 +4,7 @@ import './globals.css'
 import Loading from './loading'
 import { Suspense } from 'react'
 const inter = Inter({ subsets: ['latin'] })
-// import Navbar from '@components/Navbar'
-// import Sidebar from '@components/sidebar/Sidebar'
+
 
 export const metadata: Metadata = {
   title: 'GDSC CRCE',
